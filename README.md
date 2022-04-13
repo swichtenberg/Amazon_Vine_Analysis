@@ -18,3 +18,4 @@ The purpose of the project was to analyze both paid and unpaid Amazon reviews to
 ![exampleCode](https://user-images.githubusercontent.com/96216947/163184566-693ec89b-460c-4757-9ffb-10b7a91477ce.JPG)
 
 ## Summary
+Given the small sample size of paid (i.e. Vine) reviews compared to the unpaid reviews, it is difficult to conclude there is bias in the paid reviews. The initial data suggests there is at least some bias in the paid reviews; however, more analysis is necessary. An additional analysis with more data is necessary. More data could be obtained by combining categories or using a dataset from a longer period of time. Additional analysis may also include evaluating the percentage of 5-Star reviews based on the number of helpful votes.
